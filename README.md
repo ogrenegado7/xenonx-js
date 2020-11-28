@@ -1,6 +1,6 @@
 # Xenon JavaScript
 
-Isso não é um xenon oficial, apenas uma versão em javascript criada por: renegadowsz09 🗝#0017
+Isso não é um xenon oficial, apenas uma versão em javascript criada.
 
 ### Alerta:
 
